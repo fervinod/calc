@@ -4,6 +4,10 @@ x=a+b
 
 x=a*b
 
+<<<<<<< HEAD
 #added mod
 
 x=a|b 
+=======
+x=a/b
+>>>>>>> ff62c40cc163c5626361f9ab822a10251a67c3e2
