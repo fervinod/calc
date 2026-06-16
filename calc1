@@ -3,3 +3,7 @@
 x=a+b
 
 x=a*b
+
+#added mod
+
+x=a|b 
